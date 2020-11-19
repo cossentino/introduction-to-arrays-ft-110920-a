@@ -10,3 +10,7 @@
 5. Now create remote repository (github.com/new)
 6. Connect using git remove add origin <github url>
 7. Next, type 'git push -u origin master' in order to set the upstream (default) location to origin (repository) master (branch) in github
+
+
+Notes
+1. gems are ruby programs that get added to projects (pry is a gem)
